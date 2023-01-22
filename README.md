@@ -171,7 +171,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Roller by Toybox](https://github.com/toyboxsystems/roller), by Jono Kolnik: Roller is the first Linter for Designers. It works just like spell-check but within your Sketch files.
 - [Rough](https://github.com/mathieudutour/rough-sketch), by mathieudutour: Transform your shapes in a sketchy, scribbly, hand-drawn-like, style.
 - [Scale All in Place](https://github.com/delighted/sketch-scale-all-in-place), by Delighted Inc.: Scale all in place: Resize all selected shapes or layers, in place, from center.
-- [Select 'n' Slice](https://github.com/kevintoepfer/select-n-slice), by Kevin Töpfer: A Sketch plugin to create a slice around anything you've selected.
 - [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers), by Wessley Roche: A plugin that selects layers with similar attributes to those of the layer currently selected.
 - [Sequence Artboard Names](https://github.com/tbrasington/Sequence-Sketch-Artboards), by Thomas Brasington: Simple sequencing of all artboards within a Sketch Document
 - [Shared Styles Hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy), by Mathieu Dutour: Organize your shared styles using the layers list, create a hierarchy where children inherit properties from their parent.
@@ -264,10 +263,13 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
+- [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
+- [Last Updated Indicator](https://github.com/bvmensvoort/sketch-last-updated), by Bram van Mensvoort: Mark your designs with a version indicator which automatically changes as you update.
+- [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [Envato Elements](https://github.com/envato/extensions-sketch-plugin), by envato: Envato Elements Sketch plugin makes it easy to import a select range of Web and Mobile UI Kits from Envato Elements!
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [Csv Mail Merge](https://github.com/jdwolk/sketch-csv-mailmerge), by JD Wolk: A lightweight Sketch plugin for importing data from .csv files using "{}" text sections.
-- [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [Flow Exporter](https://github.com/romannurik/Sketch-FlowExporter), by Roman Nurik: A Sketch plugin that exports prototype flows built with Sketch 49+ to HTML.
 - [Pixel Perfect](https://github.com/materik/sketchplugin-pixelperfect), by Mattias Eriksson: Plugin for Sketch for handling layout and sizing of layers automatically based on their names.
 - [Dad Jokes](https://github.com/domhabersack/sketch-dadjokes), by Dom Habersack: Replace your text with dad jokes.
@@ -343,7 +345,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Dark Mode](https://sketch-dark-mode.eduardogomez.io), by Eduardo Gómez: Generate a dark mode version of any document, the right way.
 - [Toggle Greyscale](https://github.com/KevinGutowski/ToggleGreyscale), by Kevin Gutowski: A Sketch plugin that adds a layer to your artboard so that you can preview your mocks in greyscale.
 - [Copy Optimized SVG Code](https://github.com/chenxsan/copy-optimized-svg-code), by chenxsan: Sketch plugin to copy optimized svg code
-- [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
 - [Find Dirty Styles](https://github.com/KevinGutowski/FindDirtyStyles), by Kevin Gutowski: A Sketch plugin to easily find layers that are out of sync with their shared styles.
 - [Potrace](https://github.com/perrysmotors/sketch-potrace), by Giles Perry: Convert bitmaps to vector graphics
 - [Sketch Times](https://github.com/xaddict/sketch-times), by Luuk Lamers: A DataSupplier plugin to get Times
@@ -443,7 +444,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch QR Code](https://github.com/lerte/sketch-qr-code), by Lerte Smith: A Plugin for generate SVG QR Code in Sketch app.
 - [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
 - [Sketch Material](https://github.com/websiddu/sketch-material), by Siddhartha Gudipati: Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
-- [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
 - [Data From Clipboard](https://github.com/Saint-loup/data-from-clipboard), by Saint-loup: A DataSupplier plugin
 - [Contrast](https://github.com/romannurik/Sketch-Contrast#readme), by Roman Nurik: A Sketch plugin to show a pass/fail type contrast report.
@@ -500,7 +500,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Linked Data Exporter](https://github.com/icona79/sketch-linked-data-exporter), by Matteo Gratton: Export selection as Linked Data-ready JSON file and images
 - [Easy Buttons](https://github.com/icona79/easy-buttons-sketch-plugin), by Matteo Gratton: Easily create button archetypes
 - [Sketch Multi Lingual Plugin](https://github.com/GoetteSebastian/sketch-multi-lingual-plugin), by Sebastian Götte: A plugin that allowes the user to switch between languages to visualize how the webpage or app will look in the given language. The text fragments can be loaded as csv file.
-- [Last Updated Indicator](https://github.com/bvmensvoort/sketch-last-updated), by Bram van Mensvoort: Mark your designs with a version indicator which automatically changes as you update.
 - [Colors Manager](https://github.com/fbmore/Colors-Manager-Sketch-Plugin), by Francesco Bertocci: Import, Export and Update Sketch Color Variables to and from Color Tokens.
 - [Overflow](https://overflow.io), by proto.io: Overflow is the world’s first user flow diagramming tool tailored for designers. It empowers designers to design, present and share beautiful user flow diagrams that tell a story.
 - [Artboard Multi Scale](https://github.com/weibeld/artboard-multi-scale), by Daniel Weibel: Scale an Artboard to multiple dimensions at once.
@@ -513,4 +512,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Reselect](http://www.reselect.co), by Michael Fouquet: Reselect allows you to restore a previous selection or save selections for later use (even after you close the document).
 - [6Spiral](https://github.com/matej-marjanovic/6Spiral-Sketch-Plugin), by Matej Marjanovic: 6Spiral is a sketch plugin to draw spiral shapes (archimedean and logarithmic spirals) and it also allows you to convert the 2D spirals into 3D-like helix shapes at a specified isometric angle.
 - [ColorVariablesExporter](https://github.com/griffin-stewie/ColorVariablesExporter), by griffin-stewie: Export Color Variables for development
-- [Select 'n' Slice](https://github.com/kevintoepfer/select-n-slice), by Kevin Töpfer: A Sketch plugin to create a slice around anything you've selected.
