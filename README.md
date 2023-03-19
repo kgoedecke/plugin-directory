@@ -180,6 +180,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Export Preferences](https://github.com/KevinGutowski/Sketch-Export-Preferences), by Kevin Gutowski: Import and Save Sketch Export Preferences
 - [Sketch Flow](https://github.com/hite/Sketch-Flow), by hite: Make Icon Slicing simple for app developers!
 - [Sketch Groupie](https://github.com/aparajita/sketch-groupie), by Aparajita Fishman: Sketch plugin providing commands to align layers with their parent group
+- [Sketch Guides](https://github.com/luvmex/sketch-guides), by Celyn Xie: Add Guides to edges and midpoints at once.
 - [Sketch Iconscope](https://github.com/ziven27/sketch-iconscope), by ziven27: Wrap the Icon with a square(4n) scope.
 - [Sketch Invert Fills](https://github.com/icona79/sketch-invert-fills), by Matteo Gratton: Invert fills beween 2 selected layers
 - [Sketch Ipsum](https://github.com/sketch-hq/sketch-ipsum), by Sketch: A DataSupplier plugin that fills your text layers with random Lorem Ipsum
@@ -257,7 +258,11 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
+- [Sketch Guides](https://github.com/luvmex/sketch-guides), by Celyn Xie: Add Guides to edges and midpoints at once.
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
+- [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste), by Sonny Lazuardi Hermawan:
+- [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
 - [Units](https://github.com/dploeger/sketch-plugin-units), by Dennis Ploeger: A Sketch plugin for working with print units (inch, cm, mm) in Sketch's pixel world.
 - [Android Res Export](https://github.com/ashung/android_res_export), by Ashung Hung: Export Android resouces in Sketch, include PNG assets, app icon, nine-patch image and vector drawable.
 - [SymbolNameAutocomplete](https://github.com/griffin-stewie/symbolnameautocomplete), by griffin-stewie: This plugin gives you autocompletion of symbol names when creating a symbol.
@@ -325,7 +330,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch json](https://github.com/arvinxx/sketch-json), by arvinxx: a plugin to transfer sketch JSON into sketch Object
 - [Find And Replace](https://github.com/thierryc/sketch-find-and-replace), by Martin Steven. Maintained by Thierry Charbonnel: Sketch 3 plugin to do a simple find and replace on text within layers
 - [Annotations](https://github.com/BaguetteEngineering/annotations-sketch-plugin), by Baguette Engineering: Hide/show layer groups named 'Annotations'.
-- [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste), by Sonny Lazuardi Hermawan:
 - [Color Variables Migrator](https://github.com/sketch-hq/color-variables-migrator), by Sketch: Migrate your Layers and Styles to use Color Variables
 - [Collapse All Artboards And Groups](https://github.com/littlebusters/Collapse-All-Artboards-and-Groups), by littlebusters: Collapse all artboards and groups in the current document.
 - [BlobMaker](https://github.com/Rawnly/blobmaker_sketch), by Federico Vitale: Generate blobs with ease
@@ -447,7 +451,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Contrast](https://github.com/romannurik/Sketch-Contrast#readme), by Roman Nurik: A Sketch plugin to show a pass/fail type contrast report.
 - [Sketch Iconscope](https://github.com/ziven27/sketch-iconscope), by ziven27: Wrap the Icon with a square(4n) scope.
 - [Sketch Topographic](https://github.com/ziven27/Sketch-topographic), by ziven27: Display Topographic Information
-- [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
 - [Sketch Table Builder](https://github.com/EricKramp/sketch-table-builder), by Eric Kramp: Quickly and easily use a single symbol and a CSV to create a data table.
 - [Omnis Skeleton Generator](https://github.com/taohsu/skeletongenerator), by taohsu: Generate skeleton/placeholder UI from the selected components
 - [Phrase Sketch Plugin](https://phrase.com/sketch), by Phrase: Start localization during the design phase. Easily preview your designs in multiple languages and optimize your UI for all markets with the Phrase plugin.
@@ -476,7 +479,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Gretel](https://github.com/StyleShare/Gretel), by Suyeol Jeon: A Sketch plugin that flattens files after exporting.
 - [Kitchen](https://github.com/ant-design/kitchen), by Ant-Design: Make your design work delicious 🍽
 - [Sketch Invert Fills](https://github.com/icona79/sketch-invert-fills), by Matteo Gratton: Invert fills beween 2 selected layers
-- [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
 - [Sketch Lineout](https://github.com/icona79/sketch-lineout), by Matteo Gratton: Lineout your artboards for handoff preview
 - [uiLogos](https://github.com/realvjy/uiLogos-sketch-plugin), by vijay verma: Insert professionally designed dummy logos of companies.
 - [Random Color Sketch](https://github.com/yunser/random-color-sketch), by “cjhgit”:
