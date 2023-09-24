@@ -219,6 +219,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Unsplash](https://www.sketch.com/extensions/plugins/unsplash/), by Sketch BV: Unsplash Data Provider plugin, for Sketch 52+.
 - [Whale Kit](https://github.com/jingwhale/whale-kit), by jingwhale:
 - [wireframr](https://github.com/chewbecky/wireframr), by chewbecca: Sketch Plugin to change your high-fidelity screendesign to simple wireframes.
+- [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
 - [🎨 Tieba Colorpool](https://github.com/YanShby/tb_colorpool_plugin), by Shen,Yan: This is read color pool name plugin only for tieba UE & RD
 - [📕 PDF Export](https://github.com/dwilliames/pdf-export-sketch-plugin), by David Williames: Export all pages, current page or selected artboards into a PDF — based on a range of settings
 - [🕵🏻‍ Find and Replace Text](https://github.com/chriswetterman/sketch-find-and-replace-text), by Chris Wetterman: Find and replace text throughout your Sketch document
@@ -226,8 +227,10 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
-- [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
+- [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
+- [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
+- [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
 - [Miro Plugin for Sketch](https://github.com/miroapp/sketch_plugin), by Miro: Add, share and discuss your Sketch artboards with the team in Miro. The plugin allow to sync the artboards with the boards in one click
 - [imgcook](https://www.imgcook.com), by Taobao FED: A cook who can transform design to code
 - [css to Shadow Style](https://github.com/oliverpitsch/CSS-Shadow-to-Sketch-Style-Plugin), by Oliver Pitsch: CSS box-shadow to Layer Style Converter
@@ -268,7 +271,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Android Res Export](https://github.com/ashung/android_res_export), by Ashung Hung: Export Android resouces in Sketch, include PNG assets, app icon, nine-patch image and vector drawable.
 - [SymbolNameAutocomplete](https://github.com/griffin-stewie/symbolnameautocomplete), by griffin-stewie: This plugin gives you autocompletion of symbol names when creating a symbol.
 - [Symbol and Artboard Organizer](https://github.com/myrronth/symbol-and-artboard-organizer), by Myrronth: Organize your symbols and artboards.
-- [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Plugin List](https://github.com/griffin-stewie/PluginsList), by griffin-stewie: Sketch Plugin that gives you list of plugins you enabled as several text formats.
 - [Icons → Code](https://github.com/Sugarcode-Team/icons-to-code-sketch-plugin-live), by Sugarcode: Export Icons as vector-perfect code components for Android, React, ReactNative, Angular, Vue, TTF, EPS, PDF, Custom components and more.
 - [Sketch Map Generator](https://github.com/eddiesigner/sketch-map-generator), by Eduardo Gómez Vásquez: Plugin to fill a layer with a map generated from a location (Powered by Google Maps)
