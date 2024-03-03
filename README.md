@@ -7,7 +7,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [Anto](https://github.com/canisminor1990/anto), by CanisMinor: Sketch Tools for AFX Designers
 - [App Asset Export](https://github.com/work4blue/sketch-app-asset-export), by Andrew Huang: Sketch3 plugin, One key export Android/iOS App icons.
-- [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
 - [Artboard Manager](https://github.com/bomberstudios/artboard-manager#readme), by Ale Muñoz: Because moving artboards manually is *so* 2016.
 - [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
@@ -20,7 +19,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Component8](https://www.whose.design/component8), by Groot Xu: Component8 stores 1000+ crafted components. Use them in Sketch by drag & drop.
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [css to Shadow Style](https://github.com/oliverpitsch/CSS-Shadow-to-Sketch-Style-Plugin), by Oliver Pitsch: CSS box-shadow to Layer Style Converter
-- [Data From Clipboard](https://github.com/Saint-loup/data-from-clipboard), by Saint-loup: A DataSupplier plugin
 - [Duplicate Symbol Locator](https://github.com/rijieli/duplicate-symbol-locator-plugin), by Roger Lee: Locate duplicate symbols, anywhere.
 - [Envato Elements](https://github.com/envato/extensions-sketch-plugin), by envato: Envato Elements Sketch plugin makes it easy to import a select range of Web and Mobile UI Kits from Envato Elements!
 - [Export to Proto.io](https://proto.io), by Proto.io: Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.
@@ -52,7 +50,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
 - [Sketch Select](https://github.com/canisminor1990/sketch-select), by Canis Minor: Make it much more convenient to select layers with similar attributes.
 - [Sketch Style Master](https://github.com/aparajita/sketch-style-master), by Aparajita Fishman: Sketch plugin for renaming shared styles
-- [Sketch Symbol Legend](https://github.com/wix-incubator/sketch-symbol-legend), by WIX Incubator: Legend for your Sketch Symbols.
 - [Sketch Wakatime](https://github.com/wakatime/sketch-wakatime), by WakaTime: A Plugin to update your WakaTime stats automatically from Sketch.
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
 - [SketchContentSync](https://github.com/contentsync/sketchcontentsync), by ContentSync: Sync sketch files with google docs.
@@ -70,6 +67,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [Sketch Data Populator](https://datapopulator.com), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [uiLogos](https://github.com/realvjy/uiLogos-sketch-plugin), by vijay verma: Insert professionally designed dummy logos of companies.
@@ -78,7 +76,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Find And Replace](https://github.com/thierryc/sketch-find-and-replace), by Martin Steven. Maintained by Thierry Charbonnel: Sketch 3 plugin to do a simple find and replace on text within layers
 - [Paste to Fill](https://github.com/tgfjt/sketch-paste-to-fill#readme), by tgfjt: Paste your image from clipboard, to fill layer.
-- [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [Sketch Select](https://github.com/canisminor1990/sketch-select), by Canis Minor: Make it much more convenient to select layers with similar attributes.
 - [WtDesign](https://github.com/wantedly/sketch-wt-design), by Yoshinori Kawasaki: Sketch plugin for Wantedly Design System
 - [Anto](https://github.com/canisminor1990/anto), by CanisMinor: Sketch Tools for AFX Designers
@@ -123,6 +120,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Scale All in Place](https://github.com/delighted/sketch-scale-all-in-place), by Delighted Inc.: Scale all in place: Resize all selected shapes or layers, in place, from center.
 - [Chromata](https://github.com/vladimir-ionita/Chromata), by Vladimir Ionița: Find rogue colors
 - [SketchContentSync](https://github.com/contentsync/sketchcontentsync), by ContentSync: Sync sketch files with google docs.
-- [Sketch Symbol Legend](https://github.com/wix-incubator/sketch-symbol-legend), by WIX Incubator: Legend for your Sketch Symbols.
-- [Data From Clipboard](https://github.com/Saint-loup/data-from-clipboard), by Saint-loup: A DataSupplier plugin
-- [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
