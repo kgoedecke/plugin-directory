@@ -22,6 +22,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [File Cleaner](https://github.com/monzo/file-cleaner), by Monzo: Keep your Sketch files immaculately clean and in order.
 - [Find And Replace](https://github.com/thierryc/sketch-find-and-replace), by Martin Steven. Maintained by Thierry Charbonnel: Sketch 3 plugin to do a simple find and replace on text within layers
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
+- [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
 - [helpweb](https://github.com/mybenmao/sketch-helpweb), by caorukang: web html css image
 - [imgcook](https://www.imgcook.com), by Taobao FED: A cook who can transform design to code
 - [Import SVG as Artboards](https://github.com/mathieudutour/import-svg-as-artboard), by mathieudutour: Import SVG files as Artboards.
@@ -32,6 +33,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Overlay](https://overlay-tech.com?ref=sketch-plugin), by Overlay: Overlay transforms your Sketch symbols into clean and reusable code in ReactJS, Vue.js and Vanilla HTML.
 - [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
 - [Paste to Fill](https://github.com/tgfjt/sketch-paste-to-fill#readme), by tgfjt: Paste your image from clipboard, to fill layer.
+- [PersianSupplier](https://github.com/hiradary/persiansupplier), by Hirad Arshadi: Sketch Plugin for supplying dynamic persian data.
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
 - [represent.](https://getrepresent.com), by Swipe Circus: Present your UX/UI Designs lightning fast on client's devices without leaving Sketch. 📲
@@ -62,6 +64,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [PersianSupplier](https://github.com/hiradary/persiansupplier), by Hirad Arshadi: Sketch Plugin for supplying dynamic persian data.
+- [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
 - [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
 - [Miro Plugin for Sketch](https://github.com/miroapp/sketch_plugin), by Miro: Add, share and discuss your Sketch artboards with the team in Miro. The plugin allow to sync the artboards with the boards in one click
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
