@@ -6,7 +6,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [Anto](https://github.com/canisminor1990/anto), by CanisMinor: Sketch Tools for AFX Designers
-- [App Asset Export](https://github.com/work4blue/sketch-app-asset-export), by Andrew Huang: Sketch3 plugin, One key export Android/iOS App icons.
 - [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
 - [Awesome Ipsums](https://github.com/inVoltag/awesome-ipsums), by Aurélien Grimaud: Generate ipsums from an external Google spreadsheet. Make these datas collaborative!
 - [Blush](https://blush.design), by Blush Design, Inc.: Create and customize illustrations in your designs with Blush. Just choose a collection, pick a composition, and place it on the canvas.
@@ -83,4 +82,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Anto](https://github.com/canisminor1990/anto), by CanisMinor: Sketch Tools for AFX Designers
 - [Sketch Name Organizer](https://github.com/canisminor1990/sketch-name-organizer), by Canis Minor: 🖌 Rename artboards based on their x and y position; Rename layers based on their Style and Symbol.
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
-- [App Asset Export](https://github.com/work4blue/sketch-app-asset-export), by Andrew Huang: Sketch3 plugin, One key export Android/iOS App icons.
