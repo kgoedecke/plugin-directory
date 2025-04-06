@@ -4,7 +4,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 **Note:** if you want to add yours, just send a pull request, or use [skpm](https://skpm.io) to develop it (skpm takes care of publishing automatically). Once your plugin is added here, it will appear on [the website](https://sketchapp.com/extensions/plugins) as soon as we make a new deploy (that can take anywhere from a few minutes to a few days)
 
-- [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
 - [Awesome Ipsums](https://github.com/inVoltag/awesome-ipsums), by Aurélien Grimaud: Generate ipsums from an external Google spreadsheet. Make these datas collaborative!
 - [Batch Create Symbols](https://github.com/demersdesigns/sketch-batch-create-symbols), by Paul Demers: A plugin for Sketch to convert selected layers to individual symbols.
@@ -31,11 +30,13 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
 - [Sketch Play](http://sureskumar.com/sketchplay/), by Sures Kumar: Create game plays directly from Sketch app.
 - [Super Shapes](https://github.com/sureskumar/super-shapes), by Sures Kumar: Generate complex organic super-shapes using super formula.
+- [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
 - [🎨 Tieba Colorpool](https://github.com/YanShby/tb_colorpool_plugin), by Shen,Yan: This is read color pool name plugin only for tieba UE & RD
 
 
 ## Sorted by last update (newest on top)
 
+- [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
 - [Batch Create Symbols](https://github.com/demersdesigns/sketch-batch-create-symbols), by Paul Demers: A plugin for Sketch to convert selected layers to individual symbols.
@@ -57,4 +58,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
 - [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
 - [Sketch Isometric](https://github.com/sureskumar/sketch-isometric), by Sures Kumar: Generate Isometric views from Artboards and Rectangles.
-- [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
