@@ -18,7 +18,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Overlay](https://overlay-tech.com?ref=sketch-plugin), by Overlay: Overlay transforms your Sketch symbols into clean and reusable code in ReactJS, Vue.js and Vanilla HTML.
 - [PersianSupplier](https://github.com/hiradary/persiansupplier), by Hirad Arshadi: Sketch Plugin for supplying dynamic persian data.
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
-- [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
 - [Rename Instances](https://github.com/exevil/sketch-rename-instances), by Vyacheslav Dubovitsky: Tiny single-command Sketch plugin that renames every symbol instance with its master's name.
 - [represent.](https://getrepresent.com), by Swipe Circus: Present your UX/UI Designs lightning fast on client's devices without leaving Sketch. 📲
 - [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
@@ -45,4 +44,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [PersianSupplier](https://github.com/hiradary/persiansupplier), by Hirad Arshadi: Sketch Plugin for supplying dynamic persian data.
 - [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
 - [Awesome Ipsums](https://github.com/inVoltag/awesome-ipsums), by Aurélien Grimaud: Generate ipsums from an external Google spreadsheet. Make these datas collaborative!
-- [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
